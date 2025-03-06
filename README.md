@@ -90,13 +90,16 @@ The full circuit implementation consists of all the above modules connected appr
 4. Review the included images for detailed circuit diagrams.
 ## **Future Enhancements**
 
-    - Optimization for higher clock frequencies.
-    - FPGA implementation for real-time applications.
-    - Integration with AI accelerators for faster inference in deep learning models.
+1. Optimization for higher clock frequencies.
+2. FPGA implementation for real-time applications.
+3. Integration with AI accelerators for faster inference in deep learning models.
 ## **Contributors**
 
 👨‍💻 Naralasetti Umesh Surya Kiran
-📧  ![LinkedIn]([https://www.linkedin.com/in/n-u-surya-kiran/])
+
+📧  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/n-u-surya-kiran/)
+
+
 
 ## **License**
 
