@@ -95,7 +95,7 @@ The full circuit implementation consists of all the above modules connected appr
 3. Integration with AI accelerators for faster inference in deep learning models.
 ## **Contributors**
 
-👨‍💻 Naralasetti Umesh Surya Kiran
+👨‍💻 Naralasetti Umesh Surya Kiran, Jeevesh Ranjan, Rakesh Konchada
 
 📧  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/n-u-surya-kiran/)
 
